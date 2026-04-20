@@ -1,0 +1,10 @@
+{
+  "name": "notify-email-skill",
+  "version": "1.0.0",
+  "description": "Professional notification skill for coding agents.",
+  "author": "Abhay Shyam",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.9.13"
+  }
+}
