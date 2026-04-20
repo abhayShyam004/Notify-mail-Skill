@@ -81,7 +81,5 @@ The repository structure follows the "Superpowers" standard for agent skills:
 MIT License - see [LICENSE](LICENSE) for details.
 
 ---
-Built with ❤️ for the AI Engineering community.
-# Notify-mail-Skill
-# Notify-mail-Skill
+
 # Notify-mail-Skill
