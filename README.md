@@ -83,3 +83,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 ---
 
 # Notify-mail-Skill
+# notify mail skill for claude
+# notify mail skill for gemini cli
+# notify mail skill for codex
+# notify mail skill for opencode
+# notify mail skill for agentic coding
